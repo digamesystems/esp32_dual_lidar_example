@@ -10,20 +10,17 @@ Raw LIDAR signals are run through a smoothing algorithm and then a distance thre
 
 As a quick prototype, I used two TFMini-S LIDARs, a breadboard with the ESP32, and a [cheap plastic enclosure](https://www.amazon.com/gp/product/B073Y7RHQ4?th=1) from Amazon. 
 
-![Prototype](/doc/proto1.jpg | width = 50)
+<img src="/doc/proto1.jpg" width="50%" />
 
 The assembled prototype with it's base station unit for an application to track passengers entering / leaving a shuttle bus. The counter and base station communicate via Bluetooth. The base station provides an eInk display for the driver of the shuttle bus showing in / out counts as the bus navigates its route.
 
-![Prototype](/doc/proto1.jpg | width = 50)
-
+<img src="/doc/proto2.jpg" width="50%" />
 
 ## Example 'IN' Event (Serial Plotter Output)
 
-![Serial Plotter Output](/doc/in_event.jpg | width = 50)
-
+<img src="/doc/in_event.jpg" width="50%" />
 
 ## Example 'OUT' Event 
 
-![Serial Plotter Output](/doc/out_event.jpg | width = 50)
-
+<img src="/doc/out_event.jpg" width="50%" />
 
