@@ -8,7 +8,7 @@ Raw LIDAR signals are run through a smoothing algorithm and then a distance thre
 
 ## Initial Prototype
 
-As a quick prototype, I used two TFMini-S LIDARs, a breadboard with the ESP32, and a [cheap plastic enclosure](https://www.amazon.com/gp/product/B073Y7RHQ4?th=1) from Amazon. 
+As a quick prototype, I used two TFMini-S LIDARs, a breadboard with the ESP32, and a [cheap plastic enclosure](https://www.amazon.com/gp/product/B073Y7RHQ4?th=1) from Amazon.  
 
 <img src="/doc/proto1.jpg" width="50%" />
 
